@@ -1,11 +1,27 @@
-# Indicados TGA25
-## Repositório de categorias e indicados do The Game Awards 2025
-*Feito na **Imersão Dev #10 Alura**.*
+# Indicados TGA2025
 
-A função deste projeto é apresentar os jogos indicados à edição de 2025 do The Game Awards de forma prática e acessível, contando também com uma navegação intuitiva e visualmente agradável.
+## Repositório em página única de categorias e indicados do The Game Awards 2025.
 
-Para isso, o principal objetivo durante o desenvolvimento foi facilitar o acesso à informação, dispondo os jogos em uma única página com busca dinâmica, além de apresentar algumas informações adicionais dos indicados como publishers/desenvolvedores, data de lançamento e plataformas para os quais foi lançado, além de links para páginas oficiais; desta forma, enquanto navega pelas categorias e respectivos indicados, o usuário pode se aprofundar mais quanto aos jogos em questão sem precisar interromper a navegação.
+Este projeto reúne, em um único espaço, todos os jogos indicados ao The Game Awards 2025 em cards com visual limpo, responsivo e informativo.
+Seu objetivo é facilitar o acesso às informações dos indicados, oferecendo uma experiência de navegação fluida e centrada no usuário. O foco principal é acessibilidade e usabilidade: apresentar todos os indicados em uma única página dinâmica, permitindo explorar jogos e categorias sem que o usuário precise interromper a navegação para ter acesso a informações adicionais.
 
-Obs.: devido ao caráter didático e escopo do projeto, eu me limitei a apresentar apenas os jogos indicados, omitindo os indicadas às categorias de Trilha e Música, Melhor Atuação, Melhor Adaptação, Criador de Conteúdo do Ano, Melhor Atleta e Melhor Time eSports (as indicações ainda constam nos cards dos jogos correspondentes, quando há). Para todas as informações acerca do TGA2025 visite o site oficial: https://thegameawards.com/
 
-*Este é apenas um exercício com fins educacionais. Todo conteúdo, imagens e materiais relacionados ao The Game Awards pertencem aos seus respectivos proprietários. As propriedades intelectuais dos jogos aqui apresentados são exclusivas de seus detentores legais. Nenhuma violação de direitos autorais é intencional.*
+*Desenvolvido durante a Imersão Dev #10 — Alura.*
+
+---
+### Funcionalidades
+
+- Busca dinâmica com filtragem de resultados em tempo real, botão para limpar o campo de busca e filtros por categorias do TGA (acessíveis tanto nos cards quanto na página de erro de busca);
+
+- Cards visuais de apresentação dos jogos com informações de dev/publisher, data de lançamento, plataformas e link para o site oficial;
+
+- Contagem regressiva para o evento em destaque na página;
+
+- Design responsivo adaptado para desktops, tablets e smartphones.
+
+
+
+>**Obs.:** por ser meu primeiro projeto e de caráter educativo, limitei o escopo para apresentar apenas os jogos indicados, omitindo os indicadas às categorias de Trilha e Música, Melhor Atuação, Melhor Adaptação, Criador de Conteúdo do Ano, Melhor Atleta e Melhor Time eSports (as indicações ainda constam nos cards dos jogos correspondentes, quando há).
+>Para informações completas do evento, visite o site oficial: https://thegameawards.com/
+
+###### *Este projeto foi criado exclusivamente para fins educacionais. Todo conteúdo, imagens e materiais relacionados ao The Game Awards pertencem aos seus respectivos proprietários. As propriedades intelectuais dos jogos apresentados são de propriedade de seus detentores legais. Nenhuma violação de direitos autorais é intencional.*
